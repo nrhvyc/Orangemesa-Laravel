@@ -1,0 +1,16 @@
+{
+  "name": "laravel",
+  "description": "An attempt at a social network",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor/bower_dl",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "bootstrap": "~3.3.6",
+    "font-awesome": "fontawesome#~4.5.0"
+  }
+}
